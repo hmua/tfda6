@@ -36,3 +36,8 @@ defaults:
       path: ""
     values:
       layout: page
+
+remote_theme: hmua/Customized-Minima
+
+plugins:
+  - jekyll-remote-theme
