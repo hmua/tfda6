@@ -1,1 +1,43 @@
-remote_theme: hmua/Customized_Minima
+
+tweets:
+  - 2022:
+    - 6:
+      - 16
+        data from config
+        y22 m6 d16
+        some content
+      - 17
+        y22m6d17 y22m6d17
+  - 2023:
+    - 6:
+      - 16
+        some content
+        1616 16 16
+      - 17
+        17171717
+        some content 2
+        some content 333
+
+site_field: '1245'
+site_array:
+  - site array 123
+  - 456
+include:
+  - test_include.yml
+
+defaults:
+  -
+    scope:
+      path: "index.md"
+    values:
+      layout: home
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+
+remote_theme: hmua/Customized-Minima
+
+plugins:
+  - jekyll-remote-theme
