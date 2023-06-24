@@ -40,4 +40,4 @@ defaults:
 plugins:
   - jekyll-remote-theme
 
-remote_theme: hmua/Customized-Minima
+remote_theme: "jeffreytse/jekyll-theme-yat"
