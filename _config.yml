@@ -37,7 +37,7 @@ defaults:
     values:
       layout: page
 
-remote_theme: hmua/Customized-Minima
+# remote_theme: hmua/Customized-Minima
 
 plugins:
   - jekyll-remote-theme
