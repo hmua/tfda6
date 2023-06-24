@@ -39,7 +39,6 @@ defaults:
 
 remote_theme: "hmua/Customized-Minima"
 readme_index:
-  remove_originals: false
   with_frontmatter: true
 
 plugins:
