@@ -20,7 +20,6 @@ gem "jekyll"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
-  gem "jekyll-seo-tag"
   gem "jekyll-paginate"
   gem "jekyll-remote-theme"
   gem "jekyll-spaceship"
