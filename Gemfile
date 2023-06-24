@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-remote-theme"
   gem "jekyll-spaceship"
+  gem "jekyll-readme-index"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
