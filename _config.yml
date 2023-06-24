@@ -28,7 +28,7 @@ include:
 defaults:
   -
     scope:
-      path: "index.md"
+      path: "readme.md"
     values:
       layout: home
   -
