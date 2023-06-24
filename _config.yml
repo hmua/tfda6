@@ -41,7 +41,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-readme-index
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "hmua/Customized-Minima"
 readme_index:
   remove_originals: false
   with_frontmatter: true
