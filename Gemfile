@@ -19,11 +19,11 @@ gem "jekyll"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed"
   gem "jekyll-paginate"
   gem "jekyll-remote-theme"
   gem "jekyll-spaceship"
   gem "jekyll-readme-index"
+  gem "jekyll-seo-tag"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
