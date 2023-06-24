@@ -39,5 +39,9 @@ defaults:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-readme-index
 
 remote_theme: "jeffreytse/jekyll-theme-yat"
+readme_index:
+  remove_originals: false
+  with_frontmatter: true
