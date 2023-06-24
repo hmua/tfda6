@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.1.0"
+gem "jekyll"
 
 # This is the yat theme for new Jekyll sites. You may change this to anything you like.
 # gem "jekyll-theme-yat"
@@ -19,9 +19,8 @@ gem "jekyll", "~> 4.1.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.9"
-  gem "jekyll-seo-tag", "~> 2.1"
-  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
   gem "jekyll-paginate"
   gem "jekyll-remote-theme"
   gem "jekyll-spaceship"
